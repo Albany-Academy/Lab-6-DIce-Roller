@@ -1,4 +1,4 @@
-# Lab-6-2025-Custom-Dice-Roller
+# Lab-6-Custom-Dice-Roller
 
 ## Objective
 Practice writing and using a **static method** to generate random numbers and simulate rolling dice with any number of sides.
